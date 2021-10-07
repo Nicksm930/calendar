@@ -1,0 +1,24 @@
+@import 'react-calendar/dist/Calendar.css';
+.main-content{
+  display: flex;
+  justify-content: left;
+  flex-direction: row;
+}
+.cal-style{
+  padding-top: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
+.app-name{
+  display: flex;
+  justify-content: left;
+  color: grey;
+  width: 100%;
+  border: 1px grey solid;
+  padding-left: 60px;
+}
+.filter-button{
+  display: flex;
+ justify-content: center;
+}

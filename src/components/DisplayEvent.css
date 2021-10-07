@@ -1,0 +1,11 @@
+.row-display{
+    display: flex;
+    /* justify-content: space-around; */
+    flex-direction: row;
+    padding-right: 5px;
+    padding-left: 50px;
+}
+.due-row-display{
+    padding-right: 5px;
+    padding-left: 50px;
+}

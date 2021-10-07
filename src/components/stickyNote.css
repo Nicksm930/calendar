@@ -1,0 +1,23 @@
+.due-note{
+    background-color: rgb(245, 245, 168);
+    border-radius: 15px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 5px;
+    width: 200px;
+}
+.release-note{
+        background-color: lightgreen;
+        border-radius: 8px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 10px;
+}
+.publish-note{
+    background-color: lightsalmon;
+    border-radius: 15px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 5px;
+    width: 200px;
+}
